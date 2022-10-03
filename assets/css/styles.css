@@ -1,0 +1,46 @@
+body {
+  background: #475d62 url(../../assets/img/b2.png);
+  background-size: auto;
+  background-position: center;
+  flex-direction: column;
+  background-attachment: fixed;
+}
+
+
+.userinfo {
+  list-style-type: none;
+  color: white;
+}
+
+ul {
+}
+
+.userinfo-details {
+  font-size: calc(100%);
+}
+
+.userinfo.abyss {
+  font-size: 1em;
+}
+
+.userinfo.name {
+  font-size: 1.5em;
+}
+
+.userinfo.level {
+  font-size: 0.8em;
+}
+
+.userinfo.ach {
+  font-size: 1em;
+}
+
+.character-select {
+  margin: 5px 0.8em 5px 0.8em;
+}
+
+.character-icon {
+  border-radius: 50%;
+  background-color: rgba(0,0,0,0.36);
+}
+

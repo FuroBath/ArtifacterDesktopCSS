@@ -1,0 +1,58 @@
+body {
+  background-size: auto;
+  background-position: center;
+  flex-direction: column;
+  background-attachment: fixed;
+}
+
+.btn {
+  margin: 0px 0.5em;
+}
+
+.btn-primary {
+  background-color: rgba(0, 0, 0, 0.2);
+  border: solid white 1px;
+}
+
+.userinfo {
+  list-style-type: none;
+  color: white;
+}
+
+
+
+
+
+.userinfo-details {
+  font-size: calc(100%);
+}
+
+.userinfo.abyss {
+  font-size: 1em;
+}
+
+.userinfo.name {
+  font-size: 1.5em;
+}
+
+.userinfo.level {
+  font-size: 0.8em;
+}
+
+.userinfo.ach {
+  font-size: 1em;
+}
+
+.character-select {
+  margin: 5px 0.8em 5px 0.8em;
+}
+
+.character-icon {
+  border-radius: 50%;
+  background-color: rgba(0, 0, 0, 0.36);
+}
+
+.s {
+  background-color: rgba(104, 200, 255, 0.6);
+  border: solid #4f7ecc;
+}
